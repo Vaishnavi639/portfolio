@@ -513,7 +513,7 @@ img {
 
 .skills__percentage {
   display: block;
-  background-color: var(--first-color);
+  background-color: hsl(338.99deg 81.81% 45.73%);
 }
 
 .skills__html {
